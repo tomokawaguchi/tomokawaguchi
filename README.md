@@ -6,7 +6,7 @@ Some of my professional projcts as a freelance deveeloper are available at [my p
 
 ### About me
 
-I've been in the development industry for over 3.5 years in total, overseeing the delivery of WordPress projects and freelancing to build static websites for a marketing agency in Perth. 
+I've been in the development industry for over 3.5 years in total, overseeing the delivery of WordPress projects as PM and freelancing to build static websites for a marketing agency in Perth. 
 
 More recently I have transitioned to a software engineer after completing the Nology training course.
 
