@@ -8,7 +8,7 @@ Some of my professional projcts as a freelance deveeloper available at [my portf
 
 I've been in the development industry for over 3.5 years, overseeing the delivery of WordPress projects and freelancing to build static websites for a marketing agency in Perth. 
 
-More recently I have transitioned to a software engineer after completing a Nology training course.
+More recently I have transitioned to a software engineer after completing the Nology training course.
 
 
 ### Languages & Tools 
@@ -28,7 +28,7 @@ AWS  -->
 
 --
 
-I am originally from country side of Japan where there are a lot of deers 🇯🇵🦌 I came to Australia for my master's degree and loved the weather and people in Australia 🇦🇺
+I am originally from the country side of Japan where there are lots of deers 🇯🇵🦌 I came to Australia for my master's degree and loved the weather and people in Australia 🇦🇺
 
 I'm a very focused individual who believes hard work and dedication will lead to accomplishing goals.
 
