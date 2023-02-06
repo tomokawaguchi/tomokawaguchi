@@ -2,7 +2,7 @@
 
 Thanks for stopping by at my repo! Here you can find my personal projects in JavaScript, ReactJS and Java.
 
-Some of my professional works as a freelance deveeloper are available at [my portfolio site](https://tomok.dev/).
+Some of my professional works as a freelance developer are available at [my portfolio site](https://tomok.dev/).
 
 ### About me
 
